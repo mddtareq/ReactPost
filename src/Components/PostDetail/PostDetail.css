@@ -1,0 +1,12 @@
+.stylePost{
+    padding:20px;
+}
+.mainPost{
+    margin-bottom: 20px;
+}
+.mainPostContent{
+    background-color:rgba(128, 128, 128, 0.13);
+}
+.mainPostAction{
+    background-color:rgba(4, 70, 224, 0.500);
+}

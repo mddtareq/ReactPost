@@ -1,0 +1,10 @@
+.styleContent{
+    padding: 20px;
+    display:flex;
+    flex-wrap:wrap;
+}
+.headLine{
+    color:rgba(4, 70, 224, 0.637);
+    margin-left:5%;
+    font-family:italic;
+}
